@@ -6,7 +6,8 @@ These projects are built with SwiftUI for macOS and can be opened and run with X
 
 ## Projects
 
-- **[Project 1: WeSplit](./Project1/Project1.xcodeproj)** — A check calculator that splits a bill between people and applies a tip percentage.
+- **[Project 1: WeSplit](./Project1)** — A check calculator that splits a bill between people and applies a tip percentage.
+- **[Project 2: Guess The Flag](./Project2)** — A small game about guessing flags.
 
 ## Requirements
 

@@ -10,6 +10,7 @@ These projects are built with SwiftUI for macOS and can be opened and run with X
 - **[Project 2: Guess The Flag](./Project2)** — A small game about guessing flags.
 - **Project 3: Modifiers** — A lesson about modifiers (No code written).
 - **[Project 4: BetterRest](./Project4)** — An app that allows you to calculate when do you need to go to sleep. It uses ML to calculate it based on hours you want to sleep, coffee you drink and wake up time.
+- **[Project 5: Word Scramble](./Project5)** — A words game.
 
 ## Requirements
 

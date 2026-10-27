@@ -12,6 +12,7 @@ These projects are built with SwiftUI for macOS and can be opened and run with X
 - **[Project 4: BetterRest](./Project4)** — An app that allows you to calculate when do you need to go to sleep. It uses ML to calculate it based on hours you want to sleep, coffee you drink and wake up time.
 - **[Project 5: Word Scramble](./Project5)** — A words game.
 - **[Project 6: Animations](./Project6)** — A technique project exploring implicit, explicit and gesture-driven animations and custom transitions in SwiftUI.
+- **[Project 7: iExpense](./Project7)** — An expense tracker that separates personal and business costs, with a form to add expenses, swipe-to-delete and data saved between launches.
 
 ## Requirements
 

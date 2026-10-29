@@ -14,6 +14,7 @@ These projects are built with SwiftUI for macOS and can be opened and run with X
 - **[Project 6: Animations](./Project6)** — A technique project exploring implicit, explicit and gesture-driven animations and custom transitions in SwiftUI.
 - **[Project 7: iExpense](./Project7)** — An expense tracker that separates personal and business costs, with a form to add expenses, swipe-to-delete and data saved between launches.
 - **[Project 8: Moonshot](./Project8)** — An app about NASA's Apollo missions and astronauts, loading its data from JSON with Codable and switching between a grid and a list.
+- **[Project 9: Navigation](./Project9)** — A technique project exploring NavigationStack with value-based destinations, programmatic paths, returning to the root and saving the navigation path.
 
 ## Requirements
 
